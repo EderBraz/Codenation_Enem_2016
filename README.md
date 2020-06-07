@@ -1,14 +1,14 @@
 # Descubra as melhores notas de matemática do ENEM 2016
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016.
 
-**Tópicos**
+**Tópicos**  
 Neste desafio você aprenderá:
 * Lógica
 * Análise de dados
 * Estatística
 * Regression
 
-**Detalhes**
+**Detalhes**  
 O contexto do desafio gira em torno dos resultados do ENEM 2016 (disponíveis no arquivo [train.csv](https://github.com/EderBraz/Codenation_Enem_2016/blob/master/train.csv)). Este arquivo, e apenas ele, deve ser utilizado para todos os desafios. Qualquer dúvida a respeito das colunas, consulte o [Dicionário dos Microdados do Enem 2016](https://github.com/EderBraz/Codenation_Enem_2016/blob/master/dicionario-de-dados.zip).
 
 Muitas universidades brasileiras utilizam o ENEM para selecionar seus futuros alunos e alunas. Isto é feito com uma média ponderada das notas das provas de matemática, ciências da natureza, linguagens e códigos, ciências humanas e redação, com os pesos abaixo:
@@ -24,5 +24,5 @@ Salve sua resposta em um arquivo chamado [answer.csv](https://github.com/EderBra
 
 Faça o upload do arquivo answer.csv usando o botão “Submeter resposta”.
 
-**Observações**
+**Observações**  
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
